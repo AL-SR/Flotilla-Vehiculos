@@ -5,7 +5,7 @@ Este portafolio posee la parte del backend para probar el proyecto completo en n
 
 ·RECORDATORIO: installar las dependencias
 ```
-mnp install
+npm install
 ```
 #Comando de inicializacion del proyecto
 ```
